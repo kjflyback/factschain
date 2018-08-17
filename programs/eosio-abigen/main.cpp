@@ -2,7 +2,7 @@
 #include <fc/io/json.hpp>
 #include <eosio/abi_generator/abi_generator.hpp>
 #include <fc/variant_object.hpp>
-
+//
 using namespace eosio;
 using namespace eosio::chain;
 
