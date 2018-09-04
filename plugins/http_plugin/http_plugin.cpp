@@ -1,6 +1,7 @@
 /**
  *  @file
  *  @copyright defined in eos/LICENSE.txt
+ *  @ study
  */
 #include <eosio/http_plugin/http_plugin.hpp>
 #include <eosio/chain/exceptions.hpp>
