@@ -3,6 +3,11 @@
 #include <eosio/abi_generator/abi_generator.hpp>
 #include <fc/variant_object.hpp>
 
+namespace xrayimpl{
+  struct tagXRAYIMPLData{
+    bool v;
+  };
+};
 using namespace eosio;
 using namespace eosio::chain;
 
